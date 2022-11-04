@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "G:/esp-idf-v4.0.4/components/bootloader/subproject",
+    "build_dir":          "G:/QiTianAircraft/src/QiTianControl/build/bootloader",
+    "config_file":        "G:/QiTianAircraft/src/QiTianControl/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.0.4-dirty",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "G:/esp-idf-v4.0.4/components/efuse/Kconfig;G:/esp-idf-v4.0.4/components/esp32/Kconfig;G:/esp-idf-v4.0.4/components/esp_common/Kconfig;G:/esp-idf-v4.0.4/components/log/Kconfig;G:/esp-idf-v4.0.4/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "G:/esp-idf-v4.0.4/components/bootloader/Kconfig.projbuild;G:/esp-idf-v4.0.4/components/esptool_py/Kconfig.projbuild;G:/esp-idf-v4.0.4/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "G:/esp-idf-v4.0.4/components/bootloader", "G:/esp-idf-v4.0.4/components/bootloader_support", "G:/esp-idf-v4.0.4/components/efuse", "G:/esp-idf-v4.0.4/components/esp32", "G:/esp-idf-v4.0.4/components/esp_common", "G:/esp-idf-v4.0.4/components/esp_rom", "G:/esp-idf-v4.0.4/components/esptool_py", "G:/esp-idf-v4.0.4/components/log", "G:/esp-idf-v4.0.4/components/bootloader/subproject/main", "G:/esp-idf-v4.0.4/components/bootloader/subproject/components/micro-ecc", "G:/esp-idf-v4.0.4/components/partition_table", "G:/esp-idf-v4.0.4/components/soc", "G:/esp-idf-v4.0.4/components/spi_flash", "G:/esp-idf-v4.0.4/components/xtensa", "" ]
+}

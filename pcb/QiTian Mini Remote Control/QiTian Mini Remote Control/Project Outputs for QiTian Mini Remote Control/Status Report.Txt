@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [QiTian Mini Remote Control.PrjPcb]
+   Generated File[QiTian Mini Remote Control.GTO]
+   Generated File[QiTian Mini Remote Control.GTP]
+   Generated File[QiTian Mini Remote Control.GTS]
+   Generated File[QiTian Mini Remote Control.GTL]
+   Generated File[QiTian Mini Remote Control.GBL]
+   Generated File[QiTian Mini Remote Control.GBS]
+   Generated File[QiTian Mini Remote Control.GBP]
+   Generated File[QiTian Mini Remote Control.GBO]
+   Generated File[QiTian Mini Remote Control.GM1]
+   Generated File[QiTian Mini Remote Control.GKO]
+   Generated File[QiTian Mini Remote Control.GPT]
+   Generated File[QiTian Mini Remote Control.GPB]
+   Generated File[QiTian Mini Remote Control.GD1]
+   Generated File[QiTian Mini Remote Control.GG1]
+   Generated File[QiTian Mini Remote Control.RUL]
+   Generated File[QiTian Mini Remote Control.EXTREP]
+   Generated File[QiTian Mini Remote Control.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 10:27:16 On 2021/11/21

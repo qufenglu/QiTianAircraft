@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QiTian Mini Flight control.PrjPcb]
+   Generated File[QiTian Mini Flight Control-Plated.TXT]
+   Generated File[QiTian Mini Flight Control.LDP]
+   Generated File[QiTian Mini Flight Control.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:39:02 On 2021/11/21

@@ -1,0 +1,1 @@
+cmd='C:/Users/Administrator/.espressif/tools/cmake/3.13.4/bin/cmake.exe;-DSDKCONFIG=G:/QiTianAircraft/src/QiTianFlightControl/sdkconfig;-DIDF_PATH=G:/esp-idf-v4.0.4;-DIDF_TARGET=esp32;-DPYTHON=python;-DPYTHON_DEPS_CHECKED=1;-DEXTRA_COMPONENT_DIRS=G:/esp-idf-v4.0.4/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

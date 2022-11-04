@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+G:/QiTianAircraft/src/QiTianFlightControl/build/CMakeFiles/bootloader
+G:/QiTianAircraft/src/QiTianFlightControl/build/CMakeFiles/bootloader.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/CMakeFiles/bootloader-complete.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+G:/QiTianAircraft/src/QiTianFlightControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
